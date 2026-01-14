@@ -1,2 +1,2 @@
-# colingorman.github.io
+# colinmgorman.github.io
 CG portfolio
